@@ -14,3 +14,5 @@ Activity 3:
 ![image](https://github.com/fabinjoe/fabinjoe.github.io/assets/66658906/436017af-f5f1-4c5e-a8cb-406d8c928c45)
 
 Activity 4:
+![image](https://github.com/fabinjoe/fabinjoe.github.io/assets/66658906/c8c0240d-bca4-4ed1-86ab-32d49a9a060f)
+![image](https://github.com/fabinjoe/fabinjoe.github.io/assets/66658906/7262bbc0-caf6-4a76-bb47-ecc58e3df187)
