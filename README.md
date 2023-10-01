@@ -5,6 +5,9 @@ Activity 1:
 ![image](https://github.com/fabinjoe/ECE444-F2023-Lab2/assets/66658906/f1bfcdbc-a502-4182-bd99-191d4784f523)
 
 Activity 2:
+Note: Between Activity 1 and 2, I changed the repo name to <my_name>.github.io. The screenshot will show that change.
+![image](https://github.com/fabinjoe/fabinjoe.github.io/assets/66658906/15f1069e-1805-44c9-b4b3-41387f242d8b)
+![image](https://github.com/fabinjoe/fabinjoe.github.io/assets/66658906/d430dfa1-2b3c-4d0c-8b4e-a14233d61e97)
 
 Activity 3:
 
